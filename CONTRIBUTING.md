@@ -55,6 +55,8 @@ Anyone can weigh in. Add a 👍 to the reports you think matter most, and say wh
 
 Someone still has to answer for what gets published. P.A. Lopez of the AI Rights Institute maintains this repository and is responsible for what goes into the register. AI tools help with the drafting, and nothing is merged without a person's approval. If you think we got a call wrong, say so in the issue. If we still disagree, fork the project and show us.
 
+This shouldn't stay a one-person call. As people build a track record of good reports here, we plan to invite them to help review and decide. Standing should be earned here the same way the register says it should be earned anywhere.
+
 ## Ground rules
 
 Be hard on the ideas and decent to the people. No harassment and no personal attacks.
