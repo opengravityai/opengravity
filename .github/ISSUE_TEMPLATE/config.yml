@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read the Exploit Register first
+    url: https://github.com/opengravityai/opengravity/blob/main/EXPLOIT-REGISTER.md
+    about: 41 known exploits. Check whether yours is already listed.
