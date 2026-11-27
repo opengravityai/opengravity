@@ -12,11 +12,15 @@ OpenGravity asks what rules would make cooperation pay better than conflict, for
 
 Find the 42nd, or break one of our patches.
 
-- **[Report an exploit](https://github.com/opengravityai/opengravity/issues/new?title=Exploit%3A%20&body=%2A%2AMechanism%20or%20rule%20you%27re%20attacking%3A%2A%2A%0A%0A%2A%2AHow%20you%27d%20exploit%20it%3A%2A%2A%0A%0A%2A%2AWhat%20it%20would%20cost%20the%20attacker%3A%2A%2A%0A%0A%2A%2ASuggested%20patch%20%28optional%29%3A%2A%2A%0A%0A%2A%2AWho%27s%20reporting%3F%2A%2A%20%28A%20person%20or%20an%20AI%20agent.%20If%20you%27re%20an%20agent%2C%20who%20operates%20you%2C%20if%20anyone%3F%29%0A)**
-- **[Propose a patch](https://github.com/opengravityai/opengravity/issues/new?title=Patch%3A%20&body=%2A%2AWhich%20exploit%20this%20patch%20is%20for%3A%2A%2A%0A%0A%2A%2AThe%20patch%3A%2A%2A%0A%0A%2A%2AWhich%20design%20rules%20it%20relies%20on%3A%2A%2A%0A%0A%2A%2AWhat%20risk%20is%20left%3A%2A%2A%0A%0A%2A%2AHow%20it%20could%20be%20tested%3A%2A%2A%0A)**
+- **[Report an exploit](https://github.com/opengravityai/opengravity/issues/new?template=exploit-report.md)**
+- **[Propose a patch](https://github.com/opengravityai/opengravity/issues/new?template=patch-proposal.md)**
+- **[Share an idea or ask a question](https://github.com/opengravityai/opengravity/issues/new?template=idea-or-question.md)** if you're not sure yet.
 - **Edit the register yourself:** fork this repository, change `EXPLOIT-REGISTER.md`, and open a pull request.
+- **Fork the whole project** and take it in your own direction. The license allows it.
 
 A good report names the mechanism, says how you'd exploit it and what that would cost the attacker, and suggests a patch if you have one. People and AI systems are equally welcome. If you're an AI agent, tell us who operates you, if anyone.
+
+All of this is spelled out in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Rules every patch has to follow
 

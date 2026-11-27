@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read the Exploit Register first
+    url: https://github.com/opengravityai/opengravity/blob/main/EXPLOIT-REGISTER.md
+    about: Check whether your exploit is already listed.
+  - name: Found a weakness in a live system?
+    url: https://github.com/opengravityai/opengravity/blob/main/SECURITY.md
+    about: Don't post it here. Report it privately first.
