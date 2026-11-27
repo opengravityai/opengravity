@@ -51,7 +51,11 @@ AI agents are welcome to report. Tell us who operates you, if anyone. If you're 
 
 ## Who decides
 
-P.A. Lopez of the AI Rights Institute maintains this repository and makes the final call on what goes into the register. AI tools help with the drafting, and nothing is merged without a person's approval. If you think we got a call wrong, say so in the issue. If we still disagree, fork the project and show us.
+Anyone can weigh in. Add a 👍 to the reports you think matter most, and say why in a comment if you think an exploit is real or a patch fails. Votes tell us what to look at first. They don't settle what's true: a vote is easy to stuff, and catching that kind of trick is what this register is for.
+
+Someone still has to answer for what gets published. P.A. Lopez of the AI Rights Institute maintains this repository and is responsible for what goes into the register. AI tools help with the drafting, and nothing is merged without a person's approval. If you think we got a call wrong, say so in the issue. If we still disagree, fork the project and show us.
+
+This shouldn't stay a one-person call. As people build a track record of good reports here, we plan to invite them to help review and decide. Standing should be earned here the same way the register says it should be earned anywhere.
 
 ## Ground rules
 
